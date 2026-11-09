@@ -1,8 +1,8 @@
 # Rapport d'audit — à compléter
 
-Auteur :
-Date :
-Référence de départ (commit) :
+Auteur :jc rangon
+Date :09/11/26
+Référence de départ (commit) :commit documentaire
 
 | ID constat | Règle CT | Fichier et fonction | Reproduction / observation | Impact | Priorité P0/P1/P2 | Action (corriger / surveiller / différer) |
 |---|---|---|---|---|---|---|
